@@ -5,7 +5,7 @@ Proyek ini adalah implementasi Moodle yang dikustomisasi untuk Skyone Academy, d
 
 ## Download
 Unduh proyek ini melalui link berikut:
-[Download Proyek Moodle Skyone Academy](https://dm.terabox.com/main?category=all)
+[Download Proyek Moodle Skyone Academy](https://1024terabox.com/s/1aHiv76SCcwVB1Fk5O2oKaA)
 
 ## Fitur
 - Tema khusus yang dirancang untuk Skyone Academy
